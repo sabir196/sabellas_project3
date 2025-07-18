@@ -1,6 +1,6 @@
 # sabellas_project
 🔍 Automated Web Profile Scraper
-Tools: Python · Selenium · BeautifulSoup · Requests · Pandas
+Tools: Python · Selenium · BeautifulSoup · Requests · Pandas · SQLite
 Status: Private Deployment
 
 📌 Project Overview
