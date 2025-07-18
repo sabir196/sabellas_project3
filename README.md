@@ -1,4 +1,3 @@
-# sabellas_project3
 # sabellas_project
 🔍 Automated Web Profile Scraper
 Tools: Python · Selenium · BeautifulSoup · Requests · Pandas
